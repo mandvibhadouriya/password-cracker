@@ -1,5 +1,3 @@
-#Code is copied from Geeks for geeks website
-
 import hashlib
 
 print("**************PASSWORD CRACKER ******************")
